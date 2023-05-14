@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mini2/static/css/main.a3e39b54.css",
-    "main.js": "/mini2/static/js/main.e25526be.js",
-    "static/media/slick.svg": "/mini2/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/mini2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/mini2/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/mini2/index.html",
-    "static/media/slick.woff": "/mini2/static/media/slick.295183786cd8a1389865.woff",
-    "main.a3e39b54.css.map": "/mini2/static/css/main.a3e39b54.css.map",
-    "main.e25526be.js.map": "/mini2/static/js/main.e25526be.js.map"
+    "main.css": "/react-upload/static/css/main.751d233a.css",
+    "main.js": "/react-upload/static/js/main.e25526be.js",
+    "static/media/slick.svg": "/react-upload/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-upload/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-upload/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/react-upload/index.html",
+    "static/media/slick.woff": "/react-upload/static/media/slick.295183786cd8a1389865.woff",
+    "main.751d233a.css.map": "/react-upload/static/css/main.751d233a.css.map",
+    "main.e25526be.js.map": "/react-upload/static/js/main.e25526be.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3e39b54.css",
+    "static/css/main.751d233a.css",
     "static/js/main.e25526be.js"
   ]
 }
