@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mini2/static/css/main.a3e39b54.css",
-    "main.js": "/mini2/static/js/main.e25526be.js",
-    "static/media/slick.svg": "/mini2/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/mini2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/mini2/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/mini2/index.html",
-    "static/media/slick.woff": "/mini2/static/media/slick.295183786cd8a1389865.woff",
-    "main.a3e39b54.css.map": "/mini2/static/css/main.a3e39b54.css.map",
-    "main.e25526be.js.map": "/mini2/static/js/main.e25526be.js.map"
+    "main.css": "/BRCLOTHING/static/css/main.62b29a8d.css",
+    "main.js": "/BRCLOTHING/static/js/main.f41dbfe7.js",
+    "static/media/slick.svg": "/BRCLOTHING/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BRCLOTHING/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BRCLOTHING/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/BRCLOTHING/index.html",
+    "static/media/slick.woff": "/BRCLOTHING/static/media/slick.295183786cd8a1389865.woff",
+    "main.62b29a8d.css.map": "/BRCLOTHING/static/css/main.62b29a8d.css.map",
+    "main.f41dbfe7.js.map": "/BRCLOTHING/static/js/main.f41dbfe7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3e39b54.css",
-    "static/js/main.e25526be.js"
+    "static/css/main.62b29a8d.css",
+    "static/js/main.f41dbfe7.js"
   ]
 }
