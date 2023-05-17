@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/BRCLOTHING/static/css/main.2c9dd2de.css",
-    "main.js": "/BRCLOTHING/static/js/main.c219356f.js",
+    "main.css": "/BRCLOTHING/static/css/main.10b4e7b1.css",
+    "main.js": "/BRCLOTHING/static/js/main.a6abc8be.js",
     "static/media/slick.svg": "/BRCLOTHING/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/BRCLOTHING/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/BRCLOTHING/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/BRCLOTHING/index.html",
     "static/media/slick.woff": "/BRCLOTHING/static/media/slick.295183786cd8a1389865.woff",
-    "main.2c9dd2de.css.map": "/BRCLOTHING/static/css/main.2c9dd2de.css.map",
-    "main.c219356f.js.map": "/BRCLOTHING/static/js/main.c219356f.js.map"
+    "main.10b4e7b1.css.map": "/BRCLOTHING/static/css/main.10b4e7b1.css.map",
+    "main.a6abc8be.js.map": "/BRCLOTHING/static/js/main.a6abc8be.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c9dd2de.css",
-    "static/js/main.c219356f.js"
+    "static/css/main.10b4e7b1.css",
+    "static/js/main.a6abc8be.js"
   ]
 }
